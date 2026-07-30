@@ -136,7 +136,7 @@ When the bot starts:
 
 <div align="center">
 
-<a href="https://t.me/+3QhFUZHx-nhhZmY1" target="_blank">
+<a href="https://t.me/+eMqQUxeIsjo1NGE8" target="_blank">
   <img src="https://img.shields.io/badge/Join-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram">
 </a>
 
