@@ -38,7 +38,7 @@ All commands and the overall structure are written in a way that makes customiza
 
 </div>
 
-> This creates your own copy of `Knightbot-MD` under your GitHub account.
+> This creates your own copy of `Jinwoo Bot` under your GitHub account.
 
 ---
 
@@ -57,13 +57,13 @@ Deploy a small helper to generate a **pair code** and obtain your session string
 After scanning, you will receive a **session string** starting with:
 
 ```text
-KnightBot!H4....
+JinwooBot!H4....
 ```
 
 Copy that full string and paste it into `config.js`:
 
 ```js
-sessionID: 'KnightBot!H4.....'
+sessionID: 'JinwooBot!H4.....'
 ```
 
 Or set it via the `SESSION_ID` environment variable when hosting.
