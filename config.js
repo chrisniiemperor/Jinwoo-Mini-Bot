@@ -8,7 +8,7 @@ module.exports = {
     ownerName: ['ChrisTech'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: '꧁༺𝙅𝙞𝙣𝙬𝙤𝙤 𝙈𝙞𝙣𝙞-𝘽𝙤𝙩༻꧂',
+    botName: '༺𝙅𝙞𝙣𝙬𝙤𝙤 𝙈𝙞𝙣𝙞-𝘽𝙤𝙩༻',
     prefix: '+',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
