@@ -5,14 +5,14 @@
 module.exports = {
     // Bot Owner Configuration
     ownerNumber: ['233200317234'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['ChrisTech'], // Owner names corresponding to ownerNumber array
+    ownerName: ['CHRIS-TECH'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: '༺𝙅𝙞𝙣𝙬𝙤𝙤 𝙈𝙞𝙣𝙞-𝘽𝙤𝙩༻',
     prefix: '+',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
+    newsletterJid: 'https://whatsapp.com/channel/0029Vb78V290gcfOcvVPzL2w', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/Chrisniiemperor/JinwooMiniBot/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
