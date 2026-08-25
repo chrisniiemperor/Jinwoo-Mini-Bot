@@ -48,7 +48,7 @@ Deploy a small helper to generate a **pair code** and obtain your session string
 
 <div align="center">
 
-<a href="https://hackexpaircode.onrender.com/" target="_blank">
+<a href="https://jinwoopaircode.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/Generate-Pair%20Code-blueviolet?style=for-the-badge" alt="Generate Pair Code">
 </a>
 
