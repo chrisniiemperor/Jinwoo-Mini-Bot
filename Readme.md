@@ -60,7 +60,7 @@ After scanning, you will receive a **session string** starting with:
 JinwooBot!H4....
 ```
 
-Copy that full string and paste it into `config.js`:
+Copy that full string and paste it into `.env`:
 
 ```js
 sessionID: 'JinwooBot!H4.....'
