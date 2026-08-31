@@ -18,8 +18,8 @@ module.exports = {
             const chatId = extra.from;
             
             // GitHub repository URL
-            const repoUrl = 'https://github.com/Chrisniiemperor/Jinwoo-MiniBot';
-            const apiUrl = 'https://api.github.com/repos/chrisniiemperor/Jinwoo-MiniBot';
+            const repoUrl = 'https://github.com/chrisniiemperor/Jinwoo-Mini-Bot';
+            const apiUrl = 'https://api.github.com/repos/chrisniiemperor/Jinwoo-Mini-Bot';
             
             // Send loading message
             const loadingMsg = await extra.reply('🔍 Fetching GitHub repository information...');
@@ -68,8 +68,8 @@ module.exports = {
                 
                 let fallbackMessage = `╭━━『 *GitHub Repository* 』━━╮\n\n`;
                 fallbackMessage += `🤖 *Bot Name:* ${config.botName}\n`;
-                fallbackMessage += `🔗 *Repository:* KnightBot-Mini\n`;
-                fallbackMessage += `👨‍💻 *Owner:* mruniquehacker\n`;
+                fallbackMessage += `🔗 *Repository:* JinwooBot-Mini\n`;
+                fallbackMessage += `👨‍💻 *Owner:* AnonymousPro\n`;
                 fallbackMessage += `🌐 *URL:* ${repoUrl}\n\n`;
                 fallbackMessage += `⚠️ *Note:* Unable to fetch real-time statistics.\n`;
                 fallbackMessage += `Please visit the repository directly for latest stats.\n\n`;
