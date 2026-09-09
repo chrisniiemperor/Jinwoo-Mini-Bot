@@ -13,7 +13,7 @@ module.exports = {
     prefix: '+',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: 'https://whatsapp.com/channel/0029Vb78V290gcfOcvVPzL2w', // Newsletter JID for menu forwarding
+    newsletterJid: '120363406243104331@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com/Chrisniiemperor/Jinwoo-Mini-Bot/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
