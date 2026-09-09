@@ -1,0 +1,19 @@
+{
+  "name": "Jinwoo Bot MINI",
+  "description": "WhatsApp MD bot (Baileys)",
+  "repository": "",
+  "keywords": ["whatsapp", "baileys", "bot", "node"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "env": {
+    "SESSION_ID": {
+      "description": "JinwooBot session string (e.g. JinwooBot!<base64_compressed_data>)",
+      "required": false,
+      "value": ""
+    }
+  }
+}
+
