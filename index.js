@@ -4,7 +4,7 @@
  * WhatsApp MD Bot - Main Entry Point
  * ============================================================
  */
-
+require('./nosleep');
 process.env.PUPPETEER_SKIP_DOWNLOAD = 'true';
 process.env.PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = 'true';
 process.env.PUPPETEER_CACHE_DIR =
