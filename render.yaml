@@ -1,1 +1,9 @@
 
+services:
+  - type: web
+    name: jinwoo-mini-bot
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
